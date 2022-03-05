@@ -1,0 +1,43 @@
+
+body {
+  background-color: rgb(98, 11, 197);
+  margin:50px;
+  padding:;
+  height: auto;
+  width: 1000px;
+  
+
+
+  
+
+
+}
+  
+ul {
+  
+  list-style-type: none;
+  margin: 20;
+  padding: 10;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+div {
+  background-color: rgb(20, 219, 110);
+  width: 500px;
+  height: 500px;
+  text-align: center;
+margin: auto;
+padding: center;
+  
+}
+
